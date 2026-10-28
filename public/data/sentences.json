@@ -1,0 +1,482 @@
+[
+  {
+    "id": "sentence-001",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "Small steps can lead to significant changes.",
+    "chinese": "小小的行动可以带来显著的变化。",
+    "note": "lead to 后接名词或动名词，表示“导致”。"
+  },
+  {
+    "id": "sentence-002",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "It takes time to develop a new habit.",
+    "chinese": "养成一个新习惯需要时间。",
+    "note": "It takes time to do sth.：做某事需要时间。"
+  },
+  {
+    "id": "sentence-003",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "Regular practice is more effective than occasional hard work.",
+    "chinese": "有规律的练习比偶尔的苦练更有效。",
+    "note": "比较级 more effective than；occasional 意为“偶尔的”。"
+  },
+  {
+    "id": "sentence-004",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "The more you review, the better you remember.",
+    "chinese": "复习得越多，记得就越牢。",
+    "note": "the＋比较级，the＋比较级：越……越……。"
+  },
+  {
+    "id": "sentence-005",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "Instead of reading the answer again, try to explain it yourself.",
+    "chinese": "不要再读一遍答案，试着自己解释一下。",
+    "note": "instead of 后接动名词；try to do 表示尝试做。"
+  },
+  {
+    "id": "sentence-006",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "A clear goal makes it easier to decide what to do next.",
+    "chinese": "明确的目标使决定下一步做什么变得更容易。",
+    "note": "make it＋形容词＋to do；it 是形式宾语。"
+  },
+  {
+    "id": "sentence-007",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "Even a short break can help you regain your focus.",
+    "chinese": "即使短暂的休息也能帮助你重新集中注意力。",
+    "note": "help sb. (to) do sth.；regain 表示重新获得。"
+  },
+  {
+    "id": "sentence-008",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "Do not expect every day to be perfect.",
+    "chinese": "不要期待每一天都十全十美。",
+    "note": "expect sb./sth. to do：预期某人或某物做……。"
+  },
+  {
+    "id": "sentence-009",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "What matters most is whether you keep going.",
+    "chinese": "最重要的是你是否坚持下去。",
+    "note": "What 引导主语从句；whether 引导表语从句。"
+  },
+  {
+    "id": "sentence-010",
+    "category": "habit",
+    "categoryLabel": "学习习惯",
+    "english": "You are more likely to continue if the task is small enough.",
+    "chinese": "如果任务足够小，你就更有可能坚持。",
+    "note": "be likely to do：有可能做；形容词＋enough。"
+  },
+  {
+    "id": "sentence-011",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "The library provides students with a quiet place to study.",
+    "chinese": "图书馆为学生提供了安静的学习场所。",
+    "note": "provide sb. with sth.：向某人提供某物。"
+  },
+  {
+    "id": "sentence-012",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "Not all students prefer to study alone.",
+    "chinese": "并不是所有学生都更喜欢独自学习。",
+    "note": "not all 为部分否定，不是“所有人都不”。"
+  },
+  {
+    "id": "sentence-013",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "Students should have access to reliable information.",
+    "chinese": "学生应该能够获取可靠的信息。",
+    "note": "have access to：有机会使用或获取；to 是介词。"
+  },
+  {
+    "id": "sentence-014",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "The course is designed to develop practical skills.",
+    "chinese": "这门课程旨在培养实用技能。",
+    "note": "be designed to do：旨在做；注意被动结构。"
+  },
+  {
+    "id": "sentence-015",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "There is no need to compare your progress with everyone else's.",
+    "chinese": "没有必要把自己的进度与其他所有人的进度比较。",
+    "note": "There is no need to do；else's 表示“其他人的”。"
+  },
+  {
+    "id": "sentence-016",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "Many students find it difficult to balance study and work.",
+    "chinese": "许多学生发现很难平衡学习和工作。",
+    "note": "find it＋形容词＋to do；balance A and B。"
+  },
+  {
+    "id": "sentence-017",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "The project would not have succeeded without teamwork.",
+    "chinese": "没有团队合作，这个项目就不会成功。",
+    "note": "would not have done 表示对过去的虚拟推断。"
+  },
+  {
+    "id": "sentence-018",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "As long as we plan ahead, we can avoid unnecessary stress.",
+    "chinese": "只要提前规划，我们就能避免不必要的压力。",
+    "note": "as long as：只要；avoid 后常接名词或动名词。"
+  },
+  {
+    "id": "sentence-019",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "Some students learn better by discussing ideas with others.",
+    "chinese": "一些学生通过与他人讨论想法学得更好。",
+    "note": "by＋动名词表示方式。"
+  },
+  {
+    "id": "sentence-020",
+    "category": "campus",
+    "categoryLabel": "校园生活",
+    "english": "It is worth asking questions when something is unclear.",
+    "chinese": "遇到不清楚的地方时，提问是值得的。",
+    "note": "be worth doing：值得做，不能写 worth to do。"
+  },
+  {
+    "id": "sentence-021",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "The author does not reject the idea completely.",
+    "chinese": "作者并没有完全否定这个观点。",
+    "note": "completely 的位置会影响否定范围，留意部分否定。"
+  },
+  {
+    "id": "sentence-022",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "This example is used to support the main argument.",
+    "chinese": "这个例子被用来支持主要论点。",
+    "note": "be used to do：被用于做；不同于 be used to doing。"
+  },
+  {
+    "id": "sentence-023",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "The word refers to a change in people's attitudes.",
+    "chinese": "这个词指的是人们态度的变化。",
+    "note": "refer to：指的是；a change in：在……方面的变化。"
+  },
+  {
+    "id": "sentence-024",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "However, the evidence is not strong enough to support that conclusion.",
+    "chinese": "然而，证据还不足以支持那个结论。",
+    "note": "形容词＋enough＋to do；evidence 通常不可数。"
+  },
+  {
+    "id": "sentence-025",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "The passage focuses on the benefits of regular exercise.",
+    "chinese": "这篇文章主要讨论有规律运动的益处。",
+    "note": "focus on：重点在于；benefits of：……的益处。"
+  },
+  {
+    "id": "sentence-026",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "The finding suggests that the problem is more complex than expected.",
+    "chinese": "这一发现表明，问题比预期更复杂。",
+    "note": "suggest 在此表示“表明”，不是“建议”。"
+  },
+  {
+    "id": "sentence-027",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "We should consider both the advantages and the disadvantages.",
+    "chinese": "我们应该同时考虑优点和缺点。",
+    "note": "both A and B：A 和 B 两者都。"
+  },
+  {
+    "id": "sentence-028",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "The result depends on how the information is collected.",
+    "chinese": "结果取决于信息的收集方式。",
+    "note": "depend on 后可以接 how 引导的宾语从句。"
+  },
+  {
+    "id": "sentence-029",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "This does not necessarily mean that the method is useless.",
+    "chinese": "这并不一定意味着这种方法毫无用处。",
+    "note": "not necessarily：不一定；阅读中常用于限定结论。"
+  },
+  {
+    "id": "sentence-030",
+    "category": "reading",
+    "categoryLabel": "阅读理解",
+    "english": "Compared with earlier studies, this survey includes more participants.",
+    "chinese": "与早期研究相比，这项调查包含更多参与者。",
+    "note": "Compared with 作比较状语；participants：参与者。"
+  },
+  {
+    "id": "sentence-031",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "The speaker has changed her mind about the trip.",
+    "chinese": "说话者改变了对这次旅行的想法。",
+    "note": "change one's mind：改变主意；留意转折后的新决定。"
+  },
+  {
+    "id": "sentence-032",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "I was going to call you, but my phone ran out of power.",
+    "chinese": "我本来打算给你打电话，但手机没电了。",
+    "note": "was going to：原本打算；run out of：用完。"
+  },
+  {
+    "id": "sentence-033",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "Would you mind turning the music down?",
+    "chinese": "你介意把音乐调小声一点吗？",
+    "note": "Would you mind 后接动名词。"
+  },
+  {
+    "id": "sentence-034",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "The meeting has been put off until next Friday.",
+    "chinese": "会议已推迟到下周五。",
+    "note": "put off：推迟；has been done 是现在完成时被动。"
+  },
+  {
+    "id": "sentence-035",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "You should have told me about the change earlier.",
+    "chinese": "你本该早点告诉我这个变化。",
+    "note": "should have done：过去本该做但未做。"
+  },
+  {
+    "id": "sentence-036",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "I would rather take the bus than drive in heavy traffic.",
+    "chinese": "我宁愿坐公交，也不愿在拥堵的车流中开车。",
+    "note": "would rather do A than do B。"
+  },
+  {
+    "id": "sentence-037",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "The train is due to arrive in ten minutes.",
+    "chinese": "火车预计十分钟后到达。",
+    "note": "be due to do：预计做；in ten minutes 表示十分钟后。"
+  },
+  {
+    "id": "sentence-038",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "There is little chance that we will finish before lunch.",
+    "chinese": "我们午饭前完成的可能性很小。",
+    "note": "little 表示“几乎没有”；chance that 后接同位语从句。"
+  },
+  {
+    "id": "sentence-039",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "I had no idea that the library closed so early.",
+    "chinese": "我原先不知道图书馆这么早关门。",
+    "note": "have no idea that：不知道……；听力中常表达意外。"
+  },
+  {
+    "id": "sentence-040",
+    "category": "listening",
+    "categoryLabel": "听力表达",
+    "english": "Why don't we ask the teacher for some advice?",
+    "chinese": "我们为什么不向老师征求一些建议呢？",
+    "note": "Why don't we do 用于提建议；advice 不可数。"
+  },
+  {
+    "id": "sentence-041",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "In my view, learning a language requires both practice and patience.",
+    "chinese": "在我看来，学习一门语言既需要练习，也需要耐心。",
+    "note": "In my view 用于表达观点；动名词短语作主语。"
+  },
+  {
+    "id": "sentence-042",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "One possible reason is that students have different learning needs.",
+    "chinese": "一个可能的原因是学生的学习需求不同。",
+    "note": "One possible reason is that... 可用于解释原因。"
+  },
+  {
+    "id": "sentence-043",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "For example, a short daily review can improve long-term memory.",
+    "chinese": "例如，每天简短的复习可以改善长期记忆。",
+    "note": "for example 后接具体例子，避免只重复观点。"
+  },
+  {
+    "id": "sentence-044",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "This approach not only saves time but also reduces waste.",
+    "chinese": "这种方法不仅节省时间，还能减少浪费。",
+    "note": "not only...but also... 连接两个谓语，主语为单数。"
+  },
+  {
+    "id": "sentence-045",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "Although technology offers convenience, it cannot solve every problem.",
+    "chinese": "尽管技术带来了便利，但它不能解决所有问题。",
+    "note": "Although 与 but 不要在同一个主从结构中重复使用。"
+  },
+  {
+    "id": "sentence-046",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "We need to strike a balance between efficiency and quality.",
+    "chinese": "我们需要在效率和质量之间取得平衡。",
+    "note": "strike a balance between A and B：在两者间取得平衡。"
+  },
+  {
+    "id": "sentence-047",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "It is important for students to take responsibility for their own learning.",
+    "chinese": "学生对自己的学习负责是重要的。",
+    "note": "It is＋形容词＋for sb. to do；take responsibility for。"
+  },
+  {
+    "id": "sentence-048",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "Rather than replacing teachers, digital tools can support them.",
+    "chinese": "数字工具可以辅助教师，而不是取代教师。",
+    "note": "Rather than 后的动名词短语表达对照。"
+  },
+  {
+    "id": "sentence-049",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "To address this problem, universities could offer more practical courses.",
+    "chinese": "为了解决这个问题，大学可以开设更多实践课程。",
+    "note": "To do 作目的状语；address 表示“处理、解决”。"
+  },
+  {
+    "id": "sentence-050",
+    "category": "writing",
+    "categoryLabel": "写作句型",
+    "english": "Therefore, small but consistent changes may be the best starting point.",
+    "chinese": "因此，小而持续的改变可能是最好的起点。",
+    "note": "therefore 表示因果结果；consistent：持续一致的。"
+  },
+  {
+    "id": "sentence-051",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "Public transport plays an important role in city life.",
+    "chinese": "公共交通在城市生活中发挥着重要作用。",
+    "note": "play an important role in：在……中起重要作用。"
+  },
+  {
+    "id": "sentence-052",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "More and more people are becoming aware of environmental protection.",
+    "chinese": "越来越多的人开始意识到环境保护的重要性。",
+    "note": "become aware of：意识到；environmental 为形容词。"
+  },
+  {
+    "id": "sentence-053",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "The city is famous for its long history and traditional culture.",
+    "chinese": "这座城市以悠久的历史和传统文化而闻名。",
+    "note": "be famous for：因……闻名；不同于 be famous as。"
+  },
+  {
+    "id": "sentence-054",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "With the development of technology, people's lives have changed greatly.",
+    "chinese": "随着技术的发展，人们的生活发生了很大变化。",
+    "note": "with＋名词短语作状语；发生至今的变化用现在完成时。"
+  },
+  {
+    "id": "sentence-055",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "The museum attracts visitors from all over the world.",
+    "chinese": "这座博物馆吸引着来自世界各地的游客。",
+    "note": "attract 为及物动词；from all over the world 修饰 visitors。"
+  },
+  {
+    "id": "sentence-056",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "This tradition has been passed down from generation to generation.",
+    "chinese": "这一传统代代相传。",
+    "note": "pass down：传承；has been done 表示被动。"
+  },
+  {
+    "id": "sentence-057",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "Online learning allows students to study at their own pace.",
+    "chinese": "在线学习让学生可以按自己的节奏学习。",
+    "note": "allow sb. to do；at one's own pace：按自己的节奏。"
+  },
+  {
+    "id": "sentence-058",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "The government has taken measures to improve public services.",
+    "chinese": "政府已采取措施改善公共服务。",
+    "note": "take measures to do：采取措施做某事。"
+  },
+  {
+    "id": "sentence-059",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "The festival provides an opportunity for families to get together.",
+    "chinese": "这个节日为家人团聚提供了机会。",
+    "note": "an opportunity for sb. to do：某人做某事的机会。"
+  },
+  {
+    "id": "sentence-060",
+    "category": "translation",
+    "categoryLabel": "翻译表达",
+    "english": "Protecting cultural heritage is a responsibility shared by everyone.",
+    "chinese": "保护文化遗产是每个人共同承担的责任。",
+    "note": "动名词短语作主语；shared by everyone 是过去分词短语。"
+  }
+]

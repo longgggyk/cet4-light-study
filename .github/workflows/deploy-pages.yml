@@ -1,0 +1,39 @@
+name: Deploy study site
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'public/**'
+      - '.github/workflows/deploy-pages.yml'
+  workflow_run:
+    workflows: ['Update learning resources']
+    branches: [main]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          ref: main
+      - name: Configure Pages
+        uses: actions/configure-pages@v6.0.0
+      - name: Upload static website
+        uses: actions/upload-pages-artifact@v5.0.0
+        with:
+          path: public
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v5.0.1

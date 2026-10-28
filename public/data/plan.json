@@ -1,0 +1,2302 @@
+{
+  "startDate": "2026-10-28",
+  "examDate": "2026-12-12",
+  "timezone": "Asia/Shanghai",
+  "days": [
+    {
+      "id": "2026-10-28",
+      "day": 1,
+      "paperId": "202312-1",
+      "wordIds": [
+        "word-001",
+        "word-002",
+        "word-003",
+        "word-004",
+        "word-005"
+      ],
+      "sentenceIds": [
+        "sentence-001",
+        "sentence-002"
+      ],
+      "readingId": "reading-01",
+      "tasks": [
+        {
+          "id": "2026-10-28-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-10-28-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202312-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-10-28-reading",
+          "kind": "translation",
+          "minutes": 10,
+          "title": "翻译小练习 · 先写三句",
+          "note": "打开本套翻译原文，先翻译其中三句；对照参考译文检查谓语、时态和搭配。",
+          "paperId": "202312-1",
+          "anchor": "translation"
+        },
+        {
+          "id": "2026-10-28-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29",
+      "day": 2,
+      "paperId": "202312-1",
+      "wordIds": [
+        "word-006",
+        "word-007",
+        "word-008",
+        "word-009",
+        "word-010"
+      ],
+      "sentenceIds": [
+        "sentence-003",
+        "sentence-004"
+      ],
+      "readingId": "reading-01",
+      "tasks": [
+        {
+          "id": "2026-10-29-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-10-29-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202312-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-10-29-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202312-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-10-29-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-30",
+      "day": 3,
+      "paperId": "202312-1",
+      "wordIds": [
+        "word-011",
+        "word-012",
+        "word-013",
+        "word-014",
+        "word-015"
+      ],
+      "sentenceIds": [
+        "sentence-005",
+        "sentence-006"
+      ],
+      "readingId": "reading-01",
+      "tasks": [
+        {
+          "id": "2026-10-30-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-10-30-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202312-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-10-30-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202312-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-10-30-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-31",
+      "day": 4,
+      "paperId": "202312-2",
+      "wordIds": [
+        "word-016",
+        "word-017",
+        "word-018",
+        "word-019",
+        "word-020"
+      ],
+      "sentenceIds": [
+        "sentence-007",
+        "sentence-008"
+      ],
+      "readingId": "reading-02",
+      "tasks": [
+        {
+          "id": "2026-10-31-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-10-31-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202312-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-10-31-reading",
+          "kind": "writing",
+          "minutes": 10,
+          "title": "写作小练习 · 提纲与开头",
+          "note": "根据本套题目列出三个要点，再写两三句开头；这是分步练习，不是整篇限时作文。",
+          "paperId": "202312-2",
+          "anchor": "writing"
+        },
+        {
+          "id": "2026-10-31-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-01",
+      "day": 5,
+      "paperId": "202312-2",
+      "wordIds": [
+        "word-021",
+        "word-022",
+        "word-023",
+        "word-024",
+        "word-025"
+      ],
+      "sentenceIds": [
+        "sentence-009",
+        "sentence-010"
+      ],
+      "readingId": "reading-02",
+      "tasks": [
+        {
+          "id": "2026-11-01-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-01-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202312-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-01-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202312-2",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-01-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-02",
+      "day": 6,
+      "paperId": "202312-2",
+      "wordIds": [
+        "word-026",
+        "word-027",
+        "word-028",
+        "word-029",
+        "word-030"
+      ],
+      "sentenceIds": [
+        "sentence-011",
+        "sentence-012"
+      ],
+      "readingId": "reading-02",
+      "tasks": [
+        {
+          "id": "2026-11-02-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-02-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202312-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-02-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202312-2",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-02-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-03",
+      "day": 7,
+      "paperId": "202312-3",
+      "wordIds": [
+        "word-031",
+        "word-032",
+        "word-033",
+        "word-034",
+        "word-035"
+      ],
+      "sentenceIds": [
+        "sentence-013",
+        "sentence-014"
+      ],
+      "readingId": "reading-03",
+      "tasks": [
+        {
+          "id": "2026-11-03-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-03-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202312-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-03-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202312-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-03-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-04",
+      "day": 8,
+      "paperId": "202312-3",
+      "wordIds": [
+        "word-036",
+        "word-037",
+        "word-038",
+        "word-039",
+        "word-040"
+      ],
+      "sentenceIds": [
+        "sentence-015",
+        "sentence-016"
+      ],
+      "readingId": "reading-03",
+      "tasks": [
+        {
+          "id": "2026-11-04-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-04-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202312-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-04-reading",
+          "kind": "translation",
+          "minutes": 10,
+          "title": "翻译小练习 · 先写三句",
+          "note": "打开本套翻译原文，先翻译其中三句；对照参考译文检查谓语、时态和搭配。",
+          "paperId": "202312-3",
+          "anchor": "translation"
+        },
+        {
+          "id": "2026-11-04-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-05",
+      "day": 9,
+      "paperId": "202312-3",
+      "wordIds": [
+        "word-041",
+        "word-042",
+        "word-043",
+        "word-044",
+        "word-045"
+      ],
+      "sentenceIds": [
+        "sentence-017",
+        "sentence-018"
+      ],
+      "readingId": "reading-03",
+      "tasks": [
+        {
+          "id": "2026-11-05-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-05-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202312-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-05-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202312-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-05-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-06",
+      "day": 10,
+      "paperId": "202406-1",
+      "wordIds": [
+        "word-046",
+        "word-047",
+        "word-048",
+        "word-049",
+        "word-050"
+      ],
+      "sentenceIds": [
+        "sentence-019",
+        "sentence-020"
+      ],
+      "readingId": "reading-04",
+      "tasks": [
+        {
+          "id": "2026-11-06-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-06-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202406-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-06-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202406-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-06-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-07",
+      "day": 11,
+      "paperId": "202406-1",
+      "wordIds": [
+        "word-051",
+        "word-052",
+        "word-053",
+        "word-054",
+        "word-055"
+      ],
+      "sentenceIds": [
+        "sentence-021",
+        "sentence-022"
+      ],
+      "readingId": "reading-04",
+      "tasks": [
+        {
+          "id": "2026-11-07-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-07-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202406-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-07-reading",
+          "kind": "writing",
+          "minutes": 10,
+          "title": "写作小练习 · 提纲与开头",
+          "note": "根据本套题目列出三个要点，再写两三句开头；这是分步练习，不是整篇限时作文。",
+          "paperId": "202406-1",
+          "anchor": "writing"
+        },
+        {
+          "id": "2026-11-07-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-08",
+      "day": 12,
+      "paperId": "202406-1",
+      "wordIds": [
+        "word-056",
+        "word-057",
+        "word-058",
+        "word-059",
+        "word-060"
+      ],
+      "sentenceIds": [
+        "sentence-023",
+        "sentence-024"
+      ],
+      "readingId": "reading-04",
+      "tasks": [
+        {
+          "id": "2026-11-08-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-08-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202406-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-08-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202406-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-08-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-09",
+      "day": 13,
+      "paperId": "202406-2",
+      "wordIds": [
+        "word-061",
+        "word-062",
+        "word-063",
+        "word-064",
+        "word-065"
+      ],
+      "sentenceIds": [
+        "sentence-025",
+        "sentence-026"
+      ],
+      "readingId": "reading-05",
+      "tasks": [
+        {
+          "id": "2026-11-09-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-09-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202406-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-09-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202406-2",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-09-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-10",
+      "day": 14,
+      "paperId": "202406-2",
+      "wordIds": [
+        "word-066",
+        "word-067",
+        "word-068",
+        "word-069",
+        "word-070"
+      ],
+      "sentenceIds": [
+        "sentence-027",
+        "sentence-028"
+      ],
+      "readingId": "reading-05",
+      "tasks": [
+        {
+          "id": "2026-11-10-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-10-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202406-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-10-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202406-2",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-10-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-11",
+      "day": 15,
+      "paperId": "202406-2",
+      "wordIds": [
+        "word-071",
+        "word-072",
+        "word-073",
+        "word-074",
+        "word-075"
+      ],
+      "sentenceIds": [
+        "sentence-029",
+        "sentence-030"
+      ],
+      "readingId": "reading-05",
+      "tasks": [
+        {
+          "id": "2026-11-11-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-11-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202406-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-11-reading",
+          "kind": "translation",
+          "minutes": 10,
+          "title": "翻译小练习 · 先写三句",
+          "note": "打开本套翻译原文，先翻译其中三句；对照参考译文检查谓语、时态和搭配。",
+          "paperId": "202406-2",
+          "anchor": "translation"
+        },
+        {
+          "id": "2026-11-11-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-12",
+      "day": 16,
+      "paperId": "202406-3",
+      "wordIds": [
+        "word-076",
+        "word-077",
+        "word-078",
+        "word-079",
+        "word-080"
+      ],
+      "sentenceIds": [
+        "sentence-031",
+        "sentence-032"
+      ],
+      "readingId": "reading-06",
+      "tasks": [
+        {
+          "id": "2026-11-12-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-12-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202406-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-12-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202406-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-12-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13",
+      "day": 17,
+      "paperId": "202406-3",
+      "wordIds": [
+        "word-081",
+        "word-082",
+        "word-083",
+        "word-084",
+        "word-085"
+      ],
+      "sentenceIds": [
+        "sentence-033",
+        "sentence-034"
+      ],
+      "readingId": "reading-06",
+      "tasks": [
+        {
+          "id": "2026-11-13-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-13-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202406-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-13-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202406-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-13-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-14",
+      "day": 18,
+      "paperId": "202406-3",
+      "wordIds": [
+        "word-086",
+        "word-087",
+        "word-088",
+        "word-089",
+        "word-090"
+      ],
+      "sentenceIds": [
+        "sentence-035",
+        "sentence-036"
+      ],
+      "readingId": "reading-06",
+      "tasks": [
+        {
+          "id": "2026-11-14-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-14-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202406-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-14-reading",
+          "kind": "writing",
+          "minutes": 10,
+          "title": "写作小练习 · 提纲与开头",
+          "note": "根据本套题目列出三个要点，再写两三句开头；这是分步练习，不是整篇限时作文。",
+          "paperId": "202406-3",
+          "anchor": "writing"
+        },
+        {
+          "id": "2026-11-14-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15",
+      "day": 19,
+      "paperId": "202412-1",
+      "wordIds": [
+        "word-091",
+        "word-092",
+        "word-093",
+        "word-094",
+        "word-095"
+      ],
+      "sentenceIds": [
+        "sentence-037",
+        "sentence-038"
+      ],
+      "readingId": "reading-07",
+      "tasks": [
+        {
+          "id": "2026-11-15-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-15-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202412-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-15-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202412-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-15-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16",
+      "day": 20,
+      "paperId": "202412-1",
+      "wordIds": [
+        "word-096",
+        "word-097",
+        "word-098",
+        "word-099",
+        "word-100"
+      ],
+      "sentenceIds": [
+        "sentence-039",
+        "sentence-040"
+      ],
+      "readingId": "reading-07",
+      "tasks": [
+        {
+          "id": "2026-11-16-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-16-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202412-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-16-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202412-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-16-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17",
+      "day": 21,
+      "paperId": "202412-1",
+      "wordIds": [
+        "word-101",
+        "word-102",
+        "word-103",
+        "word-104",
+        "word-105"
+      ],
+      "sentenceIds": [
+        "sentence-041",
+        "sentence-042"
+      ],
+      "readingId": "reading-07",
+      "tasks": [
+        {
+          "id": "2026-11-17-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-17-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202412-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-17-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202412-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-17-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-18",
+      "day": 22,
+      "paperId": "202412-2",
+      "wordIds": [
+        "word-106",
+        "word-107",
+        "word-108",
+        "word-109",
+        "word-110"
+      ],
+      "sentenceIds": [
+        "sentence-043",
+        "sentence-044"
+      ],
+      "readingId": "reading-08",
+      "tasks": [
+        {
+          "id": "2026-11-18-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-18-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202412-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-18-reading",
+          "kind": "translation",
+          "minutes": 10,
+          "title": "翻译小练习 · 先写三句",
+          "note": "打开本套翻译原文，先翻译其中三句；对照参考译文检查谓语、时态和搭配。",
+          "paperId": "202412-2",
+          "anchor": "translation"
+        },
+        {
+          "id": "2026-11-18-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19",
+      "day": 23,
+      "paperId": "202412-2",
+      "wordIds": [
+        "word-111",
+        "word-112",
+        "word-113",
+        "word-114",
+        "word-115"
+      ],
+      "sentenceIds": [
+        "sentence-045",
+        "sentence-046"
+      ],
+      "readingId": "reading-08",
+      "tasks": [
+        {
+          "id": "2026-11-19-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-19-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202412-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-19-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202412-2",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-19-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20",
+      "day": 24,
+      "paperId": "202412-2",
+      "wordIds": [
+        "word-116",
+        "word-117",
+        "word-118",
+        "word-119",
+        "word-120"
+      ],
+      "sentenceIds": [
+        "sentence-047",
+        "sentence-048"
+      ],
+      "readingId": "reading-08",
+      "tasks": [
+        {
+          "id": "2026-11-20-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-20-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202412-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-20-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202412-2",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-20-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21",
+      "day": 25,
+      "paperId": "202412-3",
+      "wordIds": [
+        "word-121",
+        "word-122",
+        "word-123",
+        "word-124",
+        "word-125"
+      ],
+      "sentenceIds": [
+        "sentence-049",
+        "sentence-050"
+      ],
+      "readingId": "reading-09",
+      "tasks": [
+        {
+          "id": "2026-11-21-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-21-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202412-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-21-reading",
+          "kind": "writing",
+          "minutes": 10,
+          "title": "写作小练习 · 提纲与开头",
+          "note": "根据本套题目列出三个要点，再写两三句开头；这是分步练习，不是整篇限时作文。",
+          "paperId": "202412-3",
+          "anchor": "writing"
+        },
+        {
+          "id": "2026-11-21-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-22",
+      "day": 26,
+      "paperId": "202412-3",
+      "wordIds": [
+        "word-126",
+        "word-127",
+        "word-128",
+        "word-129",
+        "word-130"
+      ],
+      "sentenceIds": [
+        "sentence-051",
+        "sentence-052"
+      ],
+      "readingId": "reading-09",
+      "tasks": [
+        {
+          "id": "2026-11-22-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-22-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202412-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-22-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202412-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-22-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23",
+      "day": 27,
+      "paperId": "202412-3",
+      "wordIds": [
+        "word-131",
+        "word-132",
+        "word-133",
+        "word-134",
+        "word-135"
+      ],
+      "sentenceIds": [
+        "sentence-053",
+        "sentence-054"
+      ],
+      "readingId": "reading-09",
+      "tasks": [
+        {
+          "id": "2026-11-23-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-23-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202412-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-23-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202412-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-23-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24",
+      "day": 28,
+      "paperId": "202506-1",
+      "wordIds": [
+        "word-136",
+        "word-137",
+        "word-138",
+        "word-139",
+        "word-140"
+      ],
+      "sentenceIds": [
+        "sentence-055",
+        "sentence-056"
+      ],
+      "readingId": "reading-10",
+      "tasks": [
+        {
+          "id": "2026-11-24-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-24-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202506-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-24-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202506-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-24-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25",
+      "day": 29,
+      "paperId": "202506-1",
+      "wordIds": [
+        "word-141",
+        "word-142",
+        "word-143",
+        "word-144",
+        "word-145"
+      ],
+      "sentenceIds": [
+        "sentence-057",
+        "sentence-058"
+      ],
+      "readingId": "reading-10",
+      "tasks": [
+        {
+          "id": "2026-11-25-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-25-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202506-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-25-reading",
+          "kind": "translation",
+          "minutes": 10,
+          "title": "翻译小练习 · 先写三句",
+          "note": "打开本套翻译原文，先翻译其中三句；对照参考译文检查谓语、时态和搭配。",
+          "paperId": "202506-1",
+          "anchor": "translation"
+        },
+        {
+          "id": "2026-11-25-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26",
+      "day": 30,
+      "paperId": "202506-1",
+      "wordIds": [
+        "word-146",
+        "word-147",
+        "word-148",
+        "word-149",
+        "word-150"
+      ],
+      "sentenceIds": [
+        "sentence-059",
+        "sentence-060"
+      ],
+      "readingId": "reading-10",
+      "tasks": [
+        {
+          "id": "2026-11-26-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-26-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202506-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-26-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202506-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-26-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27",
+      "day": 31,
+      "paperId": "202506-2",
+      "wordIds": [
+        "word-151",
+        "word-152",
+        "word-153",
+        "word-154",
+        "word-155"
+      ],
+      "sentenceIds": [
+        "sentence-001",
+        "sentence-002"
+      ],
+      "readingId": "reading-11",
+      "tasks": [
+        {
+          "id": "2026-11-27-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-27-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202506-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-27-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202506-2",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-27-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-28",
+      "day": 32,
+      "paperId": "202506-2",
+      "wordIds": [
+        "word-156",
+        "word-157",
+        "word-158",
+        "word-159",
+        "word-160"
+      ],
+      "sentenceIds": [
+        "sentence-003",
+        "sentence-004"
+      ],
+      "readingId": "reading-11",
+      "tasks": [
+        {
+          "id": "2026-11-28-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-28-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202506-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-28-reading",
+          "kind": "writing",
+          "minutes": 10,
+          "title": "写作小练习 · 提纲与开头",
+          "note": "根据本套题目列出三个要点，再写两三句开头；这是分步练习，不是整篇限时作文。",
+          "paperId": "202506-2",
+          "anchor": "writing"
+        },
+        {
+          "id": "2026-11-28-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-29",
+      "day": 33,
+      "paperId": "202506-2",
+      "wordIds": [
+        "word-161",
+        "word-162",
+        "word-163",
+        "word-164",
+        "word-165"
+      ],
+      "sentenceIds": [
+        "sentence-005",
+        "sentence-006"
+      ],
+      "readingId": "reading-11",
+      "tasks": [
+        {
+          "id": "2026-11-29-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-29-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202506-2",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-29-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202506-2",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-29-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-30",
+      "day": 34,
+      "paperId": "202506-3",
+      "wordIds": [
+        "word-166",
+        "word-167",
+        "word-168",
+        "word-169",
+        "word-170"
+      ],
+      "sentenceIds": [
+        "sentence-007",
+        "sentence-008"
+      ],
+      "readingId": "reading-12",
+      "tasks": [
+        {
+          "id": "2026-11-30-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-11-30-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202506-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-11-30-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202506-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-11-30-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-01",
+      "day": 35,
+      "paperId": "202506-3",
+      "wordIds": [
+        "word-171",
+        "word-172",
+        "word-173",
+        "word-174",
+        "word-175"
+      ],
+      "sentenceIds": [
+        "sentence-009",
+        "sentence-010"
+      ],
+      "readingId": "reading-12",
+      "tasks": [
+        {
+          "id": "2026-12-01-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-01-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202506-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-01-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202506-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-12-01-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-02",
+      "day": 36,
+      "paperId": "202506-3",
+      "wordIds": [
+        "word-176",
+        "word-177",
+        "word-178",
+        "word-179",
+        "word-180"
+      ],
+      "sentenceIds": [
+        "sentence-011",
+        "sentence-012"
+      ],
+      "readingId": "reading-12",
+      "tasks": [
+        {
+          "id": "2026-12-02-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-02-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202506-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-02-reading",
+          "kind": "translation",
+          "minutes": 10,
+          "title": "翻译小练习 · 先写三句",
+          "note": "打开本套翻译原文，先翻译其中三句；对照参考译文检查谓语、时态和搭配。",
+          "paperId": "202506-3",
+          "anchor": "translation"
+        },
+        {
+          "id": "2026-12-02-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-03",
+      "day": 37,
+      "paperId": "202512-1",
+      "wordIds": [
+        "word-181",
+        "word-182",
+        "word-183",
+        "word-184",
+        "word-185"
+      ],
+      "sentenceIds": [
+        "sentence-013",
+        "sentence-014"
+      ],
+      "readingId": "reading-01",
+      "tasks": [
+        {
+          "id": "2026-12-03-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-03-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202512-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-03-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202512-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-12-03-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-04",
+      "day": 38,
+      "paperId": "202512-1",
+      "wordIds": [
+        "word-186",
+        "word-187",
+        "word-188",
+        "word-189",
+        "word-190"
+      ],
+      "sentenceIds": [
+        "sentence-015",
+        "sentence-016"
+      ],
+      "readingId": "reading-01",
+      "tasks": [
+        {
+          "id": "2026-12-04-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-04-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202512-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-04-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202512-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-12-04-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-05",
+      "day": 39,
+      "paperId": "202512-1",
+      "wordIds": [
+        "word-191",
+        "word-192",
+        "word-193",
+        "word-194",
+        "word-195"
+      ],
+      "sentenceIds": [
+        "sentence-017",
+        "sentence-018"
+      ],
+      "readingId": "reading-01",
+      "tasks": [
+        {
+          "id": "2026-12-05-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-05-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202512-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-05-reading",
+          "kind": "writing",
+          "minutes": 10,
+          "title": "写作小练习 · 提纲与开头",
+          "note": "根据本套题目列出三个要点，再写两三句开头；这是分步练习，不是整篇限时作文。",
+          "paperId": "202512-1",
+          "anchor": "writing"
+        },
+        {
+          "id": "2026-12-05-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-06",
+      "day": 40,
+      "paperId": "202606-1",
+      "wordIds": [
+        "word-196",
+        "word-197",
+        "word-198",
+        "word-199",
+        "word-200"
+      ],
+      "sentenceIds": [
+        "sentence-019",
+        "sentence-020"
+      ],
+      "readingId": "reading-02",
+      "tasks": [
+        {
+          "id": "2026-12-06-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-06-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。",
+          "paperId": "202606-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-06-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202606-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-12-06-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-07",
+      "day": 41,
+      "paperId": "202606-1",
+      "wordIds": [
+        "word-001",
+        "word-002",
+        "word-003",
+        "word-004",
+        "word-005"
+      ],
+      "sentenceIds": [
+        "sentence-021",
+        "sentence-022"
+      ],
+      "readingId": "reading-02",
+      "tasks": [
+        {
+          "id": "2026-12-07-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-07-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202606-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-07-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202606-1",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-12-07-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-08",
+      "day": 42,
+      "paperId": "202606-2",
+      "wordIds": [
+        "word-006",
+        "word-007",
+        "word-008",
+        "word-009",
+        "word-010"
+      ],
+      "sentenceIds": [
+        "sentence-023",
+        "sentence-024"
+      ],
+      "readingId": "reading-02",
+      "tasks": [
+        {
+          "id": "2026-12-08-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-08-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。 本日阅读卷未提供音频，听力改练2026年6月 · 第1套，请以打开的听力卷为准。",
+          "paperId": "202606-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-08-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202606-2",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-12-08-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-09",
+      "day": 43,
+      "paperId": "202606-2",
+      "wordIds": [
+        "word-011",
+        "word-012",
+        "word-013",
+        "word-014",
+        "word-015"
+      ],
+      "sentenceIds": [
+        "sentence-025",
+        "sentence-026"
+      ],
+      "readingId": "reading-03",
+      "tasks": [
+        {
+          "id": "2026-12-09-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-09-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "短篇新闻 · 第1–7题",
+          "note": "先看选项，标出人物、地点与数字；听到转折后再确认答案。 本日阅读卷未提供音频，听力改练2026年6月 · 第1套，请以打开的听力卷为准。",
+          "paperId": "202606-1",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-09-reading",
+          "kind": "translation",
+          "minutes": 10,
+          "title": "翻译小练习 · 先写三句",
+          "note": "打开本套翻译原文，先翻译其中三句；对照参考译文检查谓语、时态和搭配。",
+          "paperId": "202606-2",
+          "anchor": "translation"
+        },
+        {
+          "id": "2026-12-09-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-10",
+      "day": 44,
+      "paperId": "202606-3",
+      "wordIds": [
+        "word-016",
+        "word-017",
+        "word-018",
+        "word-019",
+        "word-020"
+      ],
+      "sentenceIds": [
+        "sentence-027",
+        "sentence-028"
+      ],
+      "readingId": "reading-03",
+      "tasks": [
+        {
+          "id": "2026-12-10-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-10-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "长对话 · 第8–15题",
+          "note": "先抓人物关系和谈话目的；复听时找出选项的同义改写。",
+          "paperId": "202606-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-10-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第51–55题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202606-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-12-10-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    },
+    {
+      "id": "2026-12-11",
+      "day": 45,
+      "paperId": "202606-3",
+      "wordIds": [
+        "word-021",
+        "word-022",
+        "word-023",
+        "word-024",
+        "word-025"
+      ],
+      "sentenceIds": [
+        "sentence-029",
+        "sentence-030"
+      ],
+      "readingId": "reading-03",
+      "tasks": [
+        {
+          "id": "2026-12-11-words",
+          "kind": "words",
+          "minutes": 5,
+          "title": "5 个词，2 个句子",
+          "note": "先回忆中文意思，再翻卡核对；昨天不熟的词今天再看一次。"
+        },
+        {
+          "id": "2026-12-11-listening",
+          "kind": "listening",
+          "minutes": 10,
+          "title": "听力篇章 · 第16–25题",
+          "note": "先听主旨，再记原因和结果；做完后只精听最不确定的一小段。",
+          "paperId": "202606-3",
+          "anchor": "listening"
+        },
+        {
+          "id": "2026-12-11-reading",
+          "kind": "reading",
+          "minutes": 10,
+          "title": "仔细阅读 · 第46–50题",
+          "note": "先独立做题，再回原文圈出每个答案的依据；不要只记住选项字母。",
+          "paperId": "202606-3",
+          "anchor": "careful"
+        },
+        {
+          "id": "2026-12-11-review",
+          "kind": "review",
+          "minutes": 5,
+          "title": "留下 1 条错题笔记",
+          "note": "写下今天错在哪，以及下次怎么判断。把不熟的词或句子加入收藏。"
+        }
+      ]
+    }
+  ]
+}

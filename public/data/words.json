@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "word-001",
+    "word": "access",
+    "pos": "n./v.",
+    "meaning": "使用机会；获取"
+  },
+  {
+    "id": "word-002",
+    "word": "account",
+    "pos": "n.",
+    "meaning": "账户；解释"
+  },
+  {
+    "id": "word-003",
+    "word": "achieve",
+    "pos": "v.",
+    "meaning": "实现；达到"
+  },
+  {
+    "id": "word-004",
+    "word": "acquire",
+    "pos": "v.",
+    "meaning": "获得；习得"
+  },
+  {
+    "id": "word-005",
+    "word": "adapt",
+    "pos": "v.",
+    "meaning": "适应；改编"
+  },
+  {
+    "id": "word-006",
+    "word": "adequate",
+    "pos": "adj.",
+    "meaning": "足够的；适当的"
+  },
+  {
+    "id": "word-007",
+    "word": "adjust",
+    "pos": "v.",
+    "meaning": "调整；适应"
+  },
+  {
+    "id": "word-008",
+    "word": "advantage",
+    "pos": "n.",
+    "meaning": "优势；有利条件"
+  },
+  {
+    "id": "word-009",
+    "word": "affect",
+    "pos": "v.",
+    "meaning": "影响"
+  },
+  {
+    "id": "word-010",
+    "word": "afford",
+    "pos": "v.",
+    "meaning": "负担得起"
+  },
+  {
+    "id": "word-011",
+    "word": "alternative",
+    "pos": "n./adj.",
+    "meaning": "替代选择；可供选择的"
+  },
+  {
+    "id": "word-012",
+    "word": "analyze",
+    "pos": "v.",
+    "meaning": "分析"
+  },
+  {
+    "id": "word-013",
+    "word": "approach",
+    "pos": "n./v.",
+    "meaning": "方法；接近"
+  },
+  {
+    "id": "word-014",
+    "word": "appropriate",
+    "pos": "adj.",
+    "meaning": "适当的"
+  },
+  {
+    "id": "word-015",
+    "word": "aspect",
+    "pos": "n.",
+    "meaning": "方面"
+  },
+  {
+    "id": "word-016",
+    "word": "assess",
+    "pos": "v.",
+    "meaning": "评估"
+  },
+  {
+    "id": "word-017",
+    "word": "assume",
+    "pos": "v.",
+    "meaning": "假定；认为"
+  },
+  {
+    "id": "word-018",
+    "word": "attitude",
+    "pos": "n.",
+    "meaning": "态度"
+  },
+  {
+    "id": "word-019",
+    "word": "available",
+    "pos": "adj.",
+    "meaning": "可获得的；有空的"
+  },
+  {
+    "id": "word-020",
+    "word": "aware",
+    "pos": "adj.",
+    "meaning": "意识到的"
+  },
+  {
+    "id": "word-021",
+    "word": "benefit",
+    "pos": "n./v.",
+    "meaning": "益处；受益"
+  },
+  {
+    "id": "word-022",
+    "word": "challenge",
+    "pos": "n./v.",
+    "meaning": "挑战；质疑"
+  },
+  {
+    "id": "word-023",
+    "word": "circumstance",
+    "pos": "n.",
+    "meaning": "情况；环境"
+  },
+  {
+    "id": "word-024",
+    "word": "claim",
+    "pos": "v./n.",
+    "meaning": "声称；主张"
+  },
+  {
+    "id": "word-025",
+    "word": "combine",
+    "pos": "v.",
+    "meaning": "结合"
+  },
+  {
+    "id": "word-026",
+    "word": "communicate",
+    "pos": "v.",
+    "meaning": "沟通；传递"
+  },
+  {
+    "id": "word-027",
+    "word": "compare",
+    "pos": "v.",
+    "meaning": "比较"
+  },
+  {
+    "id": "word-028",
+    "word": "compete",
+    "pos": "v.",
+    "meaning": "竞争"
+  },
+  {
+    "id": "word-029",
+    "word": "complex",
+    "pos": "adj.",
+    "meaning": "复杂的"
+  },
+  {
+    "id": "word-030",
+    "word": "concern",
+    "pos": "n./v.",
+    "meaning": "担忧；涉及"
+  },
+  {
+    "id": "word-031",
+    "word": "conclude",
+    "pos": "v.",
+    "meaning": "得出结论；结束"
+  },
+  {
+    "id": "word-032",
+    "word": "condition",
+    "pos": "n.",
+    "meaning": "条件；状况"
+  },
+  {
+    "id": "word-033",
+    "word": "conduct",
+    "pos": "v./n.",
+    "meaning": "进行；行为"
+  },
+  {
+    "id": "word-034",
+    "word": "confidence",
+    "pos": "n.",
+    "meaning": "信心"
+  },
+  {
+    "id": "word-035",
+    "word": "consequence",
+    "pos": "n.",
+    "meaning": "结果；后果"
+  },
+  {
+    "id": "word-036",
+    "word": "consider",
+    "pos": "v.",
+    "meaning": "考虑；认为"
+  },
+  {
+    "id": "word-037",
+    "word": "constant",
+    "pos": "adj.",
+    "meaning": "持续的；不变的"
+  },
+  {
+    "id": "word-038",
+    "word": "consume",
+    "pos": "v.",
+    "meaning": "消耗；消费"
+  },
+  {
+    "id": "word-039",
+    "word": "contribute",
+    "pos": "v.",
+    "meaning": "贡献；促成"
+  },
+  {
+    "id": "word-040",
+    "word": "convenient",
+    "pos": "adj.",
+    "meaning": "方便的"
+  },
+  {
+    "id": "word-041",
+    "word": "cooperate",
+    "pos": "v.",
+    "meaning": "合作"
+  },
+  {
+    "id": "word-042",
+    "word": "create",
+    "pos": "v.",
+    "meaning": "创造"
+  },
+  {
+    "id": "word-043",
+    "word": "critical",
+    "pos": "adj.",
+    "meaning": "关键的；批判性的"
+  },
+  {
+    "id": "word-044",
+    "word": "decline",
+    "pos": "v./n.",
+    "meaning": "下降；婉拒"
+  },
+  {
+    "id": "word-045",
+    "word": "define",
+    "pos": "v.",
+    "meaning": "定义；明确"
+  },
+  {
+    "id": "word-046",
+    "word": "demonstrate",
+    "pos": "v.",
+    "meaning": "证明；展示"
+  },
+  {
+    "id": "word-047",
+    "word": "depend",
+    "pos": "v.",
+    "meaning": "依靠；取决于"
+  },
+  {
+    "id": "word-048",
+    "word": "despite",
+    "pos": "prep.",
+    "meaning": "尽管"
+  },
+  {
+    "id": "word-049",
+    "word": "determine",
+    "pos": "v.",
+    "meaning": "决定；确定"
+  },
+  {
+    "id": "word-050",
+    "word": "develop",
+    "pos": "v.",
+    "meaning": "发展；培养"
+  },
+  {
+    "id": "word-051",
+    "word": "difference",
+    "pos": "n.",
+    "meaning": "差异"
+  },
+  {
+    "id": "word-052",
+    "word": "difficulty",
+    "pos": "n.",
+    "meaning": "困难"
+  },
+  {
+    "id": "word-053",
+    "word": "disadvantage",
+    "pos": "n.",
+    "meaning": "不利条件；缺点"
+  },
+  {
+    "id": "word-054",
+    "word": "discover",
+    "pos": "v.",
+    "meaning": "发现"
+  },
+  {
+    "id": "word-055",
+    "word": "discuss",
+    "pos": "v.",
+    "meaning": "讨论"
+  },
+  {
+    "id": "word-056",
+    "word": "distribute",
+    "pos": "v.",
+    "meaning": "分配；分发"
+  },
+  {
+    "id": "word-057",
+    "word": "effective",
+    "pos": "adj.",
+    "meaning": "有效的"
+  },
+  {
+    "id": "word-058",
+    "word": "efficient",
+    "pos": "adj.",
+    "meaning": "效率高的"
+  },
+  {
+    "id": "word-059",
+    "word": "effort",
+    "pos": "n.",
+    "meaning": "努力"
+  },
+  {
+    "id": "word-060",
+    "word": "encourage",
+    "pos": "v.",
+    "meaning": "鼓励"
+  },
+  {
+    "id": "word-061",
+    "word": "environment",
+    "pos": "n.",
+    "meaning": "环境"
+  },
+  {
+    "id": "word-062",
+    "word": "essential",
+    "pos": "adj.",
+    "meaning": "必不可少的"
+  },
+  {
+    "id": "word-063",
+    "word": "establish",
+    "pos": "v.",
+    "meaning": "建立；确立"
+  },
+  {
+    "id": "word-064",
+    "word": "estimate",
+    "pos": "v./n.",
+    "meaning": "估计"
+  },
+  {
+    "id": "word-065",
+    "word": "evidence",
+    "pos": "n.",
+    "meaning": "证据"
+  },
+  {
+    "id": "word-066",
+    "word": "expand",
+    "pos": "v.",
+    "meaning": "扩大"
+  },
+  {
+    "id": "word-067",
+    "word": "expect",
+    "pos": "v.",
+    "meaning": "预期；期待"
+  },
+  {
+    "id": "word-068",
+    "word": "experience",
+    "pos": "n./v.",
+    "meaning": "经验；经历"
+  },
+  {
+    "id": "word-069",
+    "word": "explain",
+    "pos": "v.",
+    "meaning": "解释"
+  },
+  {
+    "id": "word-070",
+    "word": "explore",
+    "pos": "v.",
+    "meaning": "探索"
+  },
+  {
+    "id": "word-071",
+    "word": "factor",
+    "pos": "n.",
+    "meaning": "因素"
+  },
+  {
+    "id": "word-072",
+    "word": "familiar",
+    "pos": "adj.",
+    "meaning": "熟悉的"
+  },
+  {
+    "id": "word-073",
+    "word": "flexible",
+    "pos": "adj.",
+    "meaning": "灵活的"
+  },
+  {
+    "id": "word-074",
+    "word": "focus",
+    "pos": "n./v.",
+    "meaning": "重点；集中"
+  },
+  {
+    "id": "word-075",
+    "word": "function",
+    "pos": "n./v.",
+    "meaning": "功能；起作用"
+  },
+  {
+    "id": "word-076",
+    "word": "further",
+    "pos": "adj./adv.",
+    "meaning": "进一步的；更远地"
+  },
+  {
+    "id": "word-077",
+    "word": "gain",
+    "pos": "v./n.",
+    "meaning": "获得；收益"
+  },
+  {
+    "id": "word-078",
+    "word": "generate",
+    "pos": "v.",
+    "meaning": "产生"
+  },
+  {
+    "id": "word-079",
+    "word": "goal",
+    "pos": "n.",
+    "meaning": "目标"
+  },
+  {
+    "id": "word-080",
+    "word": "gradual",
+    "pos": "adj.",
+    "meaning": "逐渐的"
+  },
+  {
+    "id": "word-081",
+    "word": "growth",
+    "pos": "n.",
+    "meaning": "增长；成长"
+  },
+  {
+    "id": "word-082",
+    "word": "habit",
+    "pos": "n.",
+    "meaning": "习惯"
+  },
+  {
+    "id": "word-083",
+    "word": "handle",
+    "pos": "v.",
+    "meaning": "处理"
+  },
+  {
+    "id": "word-084",
+    "word": "identify",
+    "pos": "v.",
+    "meaning": "识别；确认"
+  },
+  {
+    "id": "word-085",
+    "word": "ignore",
+    "pos": "v.",
+    "meaning": "忽视"
+  },
+  {
+    "id": "word-086",
+    "word": "impact",
+    "pos": "n./v.",
+    "meaning": "影响；冲击"
+  },
+  {
+    "id": "word-087",
+    "word": "improve",
+    "pos": "v.",
+    "meaning": "改善；提高"
+  },
+  {
+    "id": "word-088",
+    "word": "include",
+    "pos": "v.",
+    "meaning": "包括"
+  },
+  {
+    "id": "word-089",
+    "word": "income",
+    "pos": "n.",
+    "meaning": "收入"
+  },
+  {
+    "id": "word-090",
+    "word": "increase",
+    "pos": "v./n.",
+    "meaning": "增加"
+  },
+  {
+    "id": "word-091",
+    "word": "independent",
+    "pos": "adj.",
+    "meaning": "独立的"
+  },
+  {
+    "id": "word-092",
+    "word": "indicate",
+    "pos": "v.",
+    "meaning": "表明；指示"
+  },
+  {
+    "id": "word-093",
+    "word": "individual",
+    "pos": "n./adj.",
+    "meaning": "个人；个别的"
+  },
+  {
+    "id": "word-094",
+    "word": "influence",
+    "pos": "n./v.",
+    "meaning": "影响"
+  },
+  {
+    "id": "word-095",
+    "word": "inform",
+    "pos": "v.",
+    "meaning": "通知；告知"
+  },
+  {
+    "id": "word-096",
+    "word": "instead",
+    "pos": "adv.",
+    "meaning": "代替；反而"
+  },
+  {
+    "id": "word-097",
+    "word": "intend",
+    "pos": "v.",
+    "meaning": "打算；意欲"
+  },
+  {
+    "id": "word-098",
+    "word": "involve",
+    "pos": "v.",
+    "meaning": "涉及；包含"
+  },
+  {
+    "id": "word-099",
+    "word": "issue",
+    "pos": "n.",
+    "meaning": "问题；议题"
+  },
+  {
+    "id": "word-100",
+    "word": "knowledge",
+    "pos": "n.",
+    "meaning": "知识"
+  },
+  {
+    "id": "word-101",
+    "word": "lack",
+    "pos": "n./v.",
+    "meaning": "缺乏"
+  },
+  {
+    "id": "word-102",
+    "word": "likely",
+    "pos": "adj./adv.",
+    "meaning": "可能的；很可能"
+  },
+  {
+    "id": "word-103",
+    "word": "limit",
+    "pos": "n./v.",
+    "meaning": "限制；限度"
+  },
+  {
+    "id": "word-104",
+    "word": "maintain",
+    "pos": "v.",
+    "meaning": "维持；保养"
+  },
+  {
+    "id": "word-105",
+    "word": "major",
+    "pos": "adj./n.",
+    "meaning": "主要的；专业"
+  },
+  {
+    "id": "word-106",
+    "word": "measure",
+    "pos": "v./n.",
+    "meaning": "衡量；措施"
+  },
+  {
+    "id": "word-107",
+    "word": "method",
+    "pos": "n.",
+    "meaning": "方法"
+  },
+  {
+    "id": "word-108",
+    "word": "motivate",
+    "pos": "v.",
+    "meaning": "激励"
+  },
+  {
+    "id": "word-109",
+    "word": "necessary",
+    "pos": "adj.",
+    "meaning": "必要的"
+  },
+  {
+    "id": "word-110",
+    "word": "negative",
+    "pos": "adj.",
+    "meaning": "消极的；负面的"
+  },
+  {
+    "id": "word-111",
+    "word": "notice",
+    "pos": "v./n.",
+    "meaning": "注意到；通知"
+  },
+  {
+    "id": "word-112",
+    "word": "obtain",
+    "pos": "v.",
+    "meaning": "获得"
+  },
+  {
+    "id": "word-113",
+    "word": "obvious",
+    "pos": "adj.",
+    "meaning": "明显的"
+  },
+  {
+    "id": "word-114",
+    "word": "occur",
+    "pos": "v.",
+    "meaning": "发生；出现"
+  },
+  {
+    "id": "word-115",
+    "word": "offer",
+    "pos": "v./n.",
+    "meaning": "提供；提议"
+  },
+  {
+    "id": "word-116",
+    "word": "opportunity",
+    "pos": "n.",
+    "meaning": "机会"
+  },
+  {
+    "id": "word-117",
+    "word": "option",
+    "pos": "n.",
+    "meaning": "选择"
+  },
+  {
+    "id": "word-118",
+    "word": "ordinary",
+    "pos": "adj.",
+    "meaning": "普通的"
+  },
+  {
+    "id": "word-119",
+    "word": "organize",
+    "pos": "v.",
+    "meaning": "组织；安排"
+  },
+  {
+    "id": "word-120",
+    "word": "overcome",
+    "pos": "v.",
+    "meaning": "克服"
+  },
+  {
+    "id": "word-121",
+    "word": "participate",
+    "pos": "v.",
+    "meaning": "参与"
+  },
+  {
+    "id": "word-122",
+    "word": "particular",
+    "pos": "adj.",
+    "meaning": "特定的；特别的"
+  },
+  {
+    "id": "word-123",
+    "word": "pattern",
+    "pos": "n.",
+    "meaning": "模式；规律"
+  },
+  {
+    "id": "word-124",
+    "word": "perform",
+    "pos": "v.",
+    "meaning": "执行；表现"
+  },
+  {
+    "id": "word-125",
+    "word": "perspective",
+    "pos": "n.",
+    "meaning": "视角；观点"
+  },
+  {
+    "id": "word-126",
+    "word": "physical",
+    "pos": "adj.",
+    "meaning": "身体的；物理的"
+  },
+  {
+    "id": "word-127",
+    "word": "policy",
+    "pos": "n.",
+    "meaning": "政策；方针"
+  },
+  {
+    "id": "word-128",
+    "word": "positive",
+    "pos": "adj.",
+    "meaning": "积极的；肯定的"
+  },
+  {
+    "id": "word-129",
+    "word": "potential",
+    "pos": "n./adj.",
+    "meaning": "潜力；潜在的"
+  },
+  {
+    "id": "word-130",
+    "word": "practical",
+    "pos": "adj.",
+    "meaning": "实际的；实用的"
+  },
+  {
+    "id": "word-131",
+    "word": "predict",
+    "pos": "v.",
+    "meaning": "预测"
+  },
+  {
+    "id": "word-132",
+    "word": "prefer",
+    "pos": "v.",
+    "meaning": "更喜欢"
+  },
+  {
+    "id": "word-133",
+    "word": "prepare",
+    "pos": "v.",
+    "meaning": "准备"
+  },
+  {
+    "id": "word-134",
+    "word": "prevent",
+    "pos": "v.",
+    "meaning": "阻止"
+  },
+  {
+    "id": "word-135",
+    "word": "previous",
+    "pos": "adj.",
+    "meaning": "以前的"
+  },
+  {
+    "id": "word-136",
+    "word": "primary",
+    "pos": "adj.",
+    "meaning": "主要的；最初的"
+  },
+  {
+    "id": "word-137",
+    "word": "priority",
+    "pos": "n.",
+    "meaning": "优先事项"
+  },
+  {
+    "id": "word-138",
+    "word": "process",
+    "pos": "n./v.",
+    "meaning": "过程；处理"
+  },
+  {
+    "id": "word-139",
+    "word": "produce",
+    "pos": "v.",
+    "meaning": "生产；产生"
+  },
+  {
+    "id": "word-140",
+    "word": "progress",
+    "pos": "n./v.",
+    "meaning": "进步；进展"
+  },
+  {
+    "id": "word-141",
+    "word": "promote",
+    "pos": "v.",
+    "meaning": "促进；推广"
+  },
+  {
+    "id": "word-142",
+    "word": "protect",
+    "pos": "v.",
+    "meaning": "保护"
+  },
+  {
+    "id": "word-143",
+    "word": "provide",
+    "pos": "v.",
+    "meaning": "提供"
+  },
+  {
+    "id": "word-144",
+    "word": "purpose",
+    "pos": "n.",
+    "meaning": "目的"
+  },
+  {
+    "id": "word-145",
+    "word": "quality",
+    "pos": "n.",
+    "meaning": "质量；品质"
+  },
+  {
+    "id": "word-146",
+    "word": "quantity",
+    "pos": "n.",
+    "meaning": "数量"
+  },
+  {
+    "id": "word-147",
+    "word": "range",
+    "pos": "n.",
+    "meaning": "范围"
+  },
+  {
+    "id": "word-148",
+    "word": "realize",
+    "pos": "v.",
+    "meaning": "意识到；实现"
+  },
+  {
+    "id": "word-149",
+    "word": "reason",
+    "pos": "n./v.",
+    "meaning": "原因；推理"
+  },
+  {
+    "id": "word-150",
+    "word": "recognize",
+    "pos": "v.",
+    "meaning": "认出；认可"
+  },
+  {
+    "id": "word-151",
+    "word": "recommend",
+    "pos": "v.",
+    "meaning": "推荐；建议"
+  },
+  {
+    "id": "word-152",
+    "word": "reduce",
+    "pos": "v.",
+    "meaning": "减少"
+  },
+  {
+    "id": "word-153",
+    "word": "reflect",
+    "pos": "v.",
+    "meaning": "反映；反思"
+  },
+  {
+    "id": "word-154",
+    "word": "regular",
+    "pos": "adj.",
+    "meaning": "定期的；有规律的"
+  },
+  {
+    "id": "word-155",
+    "word": "relate",
+    "pos": "v.",
+    "meaning": "联系；叙述"
+  },
+  {
+    "id": "word-156",
+    "word": "reliable",
+    "pos": "adj.",
+    "meaning": "可靠的"
+  },
+  {
+    "id": "word-157",
+    "word": "remain",
+    "pos": "v.",
+    "meaning": "仍然是；留下"
+  },
+  {
+    "id": "word-158",
+    "word": "replace",
+    "pos": "v.",
+    "meaning": "替代"
+  },
+  {
+    "id": "word-159",
+    "word": "require",
+    "pos": "v.",
+    "meaning": "要求；需要"
+  },
+  {
+    "id": "word-160",
+    "word": "research",
+    "pos": "n./v.",
+    "meaning": "研究"
+  },
+  {
+    "id": "word-161",
+    "word": "resource",
+    "pos": "n.",
+    "meaning": "资源"
+  },
+  {
+    "id": "word-162",
+    "word": "respond",
+    "pos": "v.",
+    "meaning": "回应"
+  },
+  {
+    "id": "word-163",
+    "word": "responsibility",
+    "pos": "n.",
+    "meaning": "责任"
+  },
+  {
+    "id": "word-164",
+    "word": "result",
+    "pos": "n./v.",
+    "meaning": "结果；导致"
+  },
+  {
+    "id": "word-165",
+    "word": "retain",
+    "pos": "v.",
+    "meaning": "保留；记住"
+  },
+  {
+    "id": "word-166",
+    "word": "review",
+    "pos": "v./n.",
+    "meaning": "复习；回顾"
+  },
+  {
+    "id": "word-167",
+    "word": "reward",
+    "pos": "n./v.",
+    "meaning": "回报；奖励"
+  },
+  {
+    "id": "word-168",
+    "word": "risk",
+    "pos": "n./v.",
+    "meaning": "风险；冒险"
+  },
+  {
+    "id": "word-169",
+    "word": "schedule",
+    "pos": "n./v.",
+    "meaning": "日程；安排"
+  },
+  {
+    "id": "word-170",
+    "word": "select",
+    "pos": "v.",
+    "meaning": "选择"
+  },
+  {
+    "id": "word-171",
+    "word": "series",
+    "pos": "n.",
+    "meaning": "一系列"
+  },
+  {
+    "id": "word-172",
+    "word": "service",
+    "pos": "n.",
+    "meaning": "服务"
+  },
+  {
+    "id": "word-173",
+    "word": "share",
+    "pos": "v./n.",
+    "meaning": "分享；份额"
+  },
+  {
+    "id": "word-174",
+    "word": "significant",
+    "pos": "adj.",
+    "meaning": "显著的；重要的"
+  },
+  {
+    "id": "word-175",
+    "word": "similar",
+    "pos": "adj.",
+    "meaning": "相似的"
+  },
+  {
+    "id": "word-176",
+    "word": "skill",
+    "pos": "n.",
+    "meaning": "技能"
+  },
+  {
+    "id": "word-177",
+    "word": "solution",
+    "pos": "n.",
+    "meaning": "解决办法"
+  },
+  {
+    "id": "word-178",
+    "word": "source",
+    "pos": "n.",
+    "meaning": "来源"
+  },
+  {
+    "id": "word-179",
+    "word": "specific",
+    "pos": "adj.",
+    "meaning": "具体的；特定的"
+  },
+  {
+    "id": "word-180",
+    "word": "strategy",
+    "pos": "n.",
+    "meaning": "策略"
+  },
+  {
+    "id": "word-181",
+    "word": "stress",
+    "pos": "n./v.",
+    "meaning": "压力；强调"
+  },
+  {
+    "id": "word-182",
+    "word": "structure",
+    "pos": "n.",
+    "meaning": "结构"
+  },
+  {
+    "id": "word-183",
+    "word": "suggest",
+    "pos": "v.",
+    "meaning": "建议；表明"
+  },
+  {
+    "id": "word-184",
+    "word": "support",
+    "pos": "v./n.",
+    "meaning": "支持"
+  },
+  {
+    "id": "word-185",
+    "word": "survey",
+    "pos": "n./v.",
+    "meaning": "调查"
+  },
+  {
+    "id": "word-186",
+    "word": "technology",
+    "pos": "n.",
+    "meaning": "技术"
+  },
+  {
+    "id": "word-187",
+    "word": "temporary",
+    "pos": "adj.",
+    "meaning": "暂时的"
+  },
+  {
+    "id": "word-188",
+    "word": "therefore",
+    "pos": "adv.",
+    "meaning": "因此"
+  },
+  {
+    "id": "word-189",
+    "word": "traditional",
+    "pos": "adj.",
+    "meaning": "传统的"
+  },
+  {
+    "id": "word-190",
+    "word": "transfer",
+    "pos": "v./n.",
+    "meaning": "转移；调动"
+  },
+  {
+    "id": "word-191",
+    "word": "trend",
+    "pos": "n.",
+    "meaning": "趋势"
+  },
+  {
+    "id": "word-192",
+    "word": "understand",
+    "pos": "v.",
+    "meaning": "理解"
+  },
+  {
+    "id": "word-193",
+    "word": "various",
+    "pos": "adj.",
+    "meaning": "各种各样的"
+  },
+  {
+    "id": "word-194",
+    "word": "volunteer",
+    "pos": "n./v.",
+    "meaning": "志愿者；自愿做"
+  },
+  {
+    "id": "word-195",
+    "word": "waste",
+    "pos": "n./v.",
+    "meaning": "浪费；废物"
+  },
+  {
+    "id": "word-196",
+    "word": "whereas",
+    "pos": "conj.",
+    "meaning": "然而；而"
+  },
+  {
+    "id": "word-197",
+    "word": "willing",
+    "pos": "adj.",
+    "meaning": "愿意的"
+  },
+  {
+    "id": "word-198",
+    "word": "worth",
+    "pos": "adj.",
+    "meaning": "值得的"
+  },
+  {
+    "id": "word-199",
+    "word": "yield",
+    "pos": "v./n.",
+    "meaning": "产生；产量"
+  },
+  {
+    "id": "word-200",
+    "word": "capacity",
+    "pos": "n.",
+    "meaning": "能力；容量"
+  }
+]

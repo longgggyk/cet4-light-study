@@ -1,0 +1,132 @@
+{
+  "articles": [
+    {
+      "id": "news-1",
+      "title": "AI drones help farmers and the planet – level 1",
+      "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-1/",
+      "publishedAt": "2026-10-28T14:00:05+00:00",
+      "source": "News in Levels",
+      "type": "external",
+      "note": "原站提供分级阅读与音频；点击后在原站学习。"
+    },
+    {
+      "id": "news-2",
+      "title": "Sydney must close its beaches – level 1",
+      "url": "https://www.newsinlevels.com/products/sydney-must-close-its-beaches-level-1/",
+      "publishedAt": "2026-10-28T06:00:42+00:00",
+      "source": "News in Levels",
+      "type": "external",
+      "note": "原站提供分级阅读与音频；点击后在原站学习。"
+    },
+    {
+      "id": "news-3",
+      "title": "No more horses in the streets of New York – level 1",
+      "url": "https://www.newsinlevels.com/products/no-more-horses-in-the-streets-of-new-york-level-1/",
+      "publishedAt": "2026-10-27T14:00:40+00:00",
+      "source": "News in Levels",
+      "type": "external",
+      "note": "原站提供分级阅读与音频；点击后在原站学习。"
+    },
+    {
+      "id": "news-4",
+      "title": "Musk slows down internet for Ukraine – level 1",
+      "url": "https://www.newsinlevels.com/products/musk-slows-down-internet-for-ukraine-level-1/",
+      "publishedAt": "2026-10-27T06:00:04+00:00",
+      "source": "News in Levels",
+      "type": "external",
+      "note": "原站提供分级阅读与音频；点击后在原站学习。"
+    }
+  ],
+  "candidates": [],
+  "lastAttemptAt": "2026-10-28T15:28:41+00:00",
+  "sourceUrl": "https://www.newsinlevels.com/feed/",
+  "lastSuccessfulAt": "2026-10-28T15:28:41+00:00",
+  "paperHealth": {
+    "202312-1": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202312-2": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202312-3": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202406-1": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202406-2": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202406-3": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202412-1": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202412-2": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202412-3": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202506-1": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202506-2": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202506-3": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202512-1": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202512-2": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202512-3": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202606-1": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    },
+    "202606-2": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:47+00:00"
+    },
+    "202606-3": {
+      "status": "verified",
+      "checkedAt": "2026-10-28T15:28:46+00:00"
+    }
+  },
+  "sources": {
+    "news": {
+      "status": "ok",
+      "checkedAt": "2026-10-28T15:28:41+00:00",
+      "url": "https://www.newsinlevels.com/feed/"
+    },
+    "papers": {
+      "status": "ok",
+      "checkedAt": "2026-10-28T15:28:41+00:00",
+      "url": "https://eol.nju.edu.cn/cet4/",
+      "count": 18
+    }
+  },
+  "status": "ok"
+}

@@ -1,0 +1,39 @@
+name: Update learning resources
+on:
+  schedule:
+    - cron: '20 23 * * *' # 07:20 Asia/Shanghai; scheduled runs may be delayed by GitHub.
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: content-update
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v7.0.1
+      - uses: actions/setup-python@v7.1.0
+        with:
+          python-version: '3.13'
+      - name: Check sources and preserve last good results
+        id: refresh
+        continue-on-error: true
+        run: python scripts/update_content.py
+      - name: Validate content
+        run: python -m unittest discover -s tests -v
+      - name: Save refreshed data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data/latest.json public/latest.js
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update learning resource index'
+            git push
+          fi
+      - name: Report source failures
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo 'One or more sources could not be refreshed. Previous usable articles have been retained.'
+          exit 1

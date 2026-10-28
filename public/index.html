@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#234d3d">
+  <meta name="description" content="每天30分钟，认真学一点。四级真题、听力、词句和阅读练习，免费使用，无需注册。">
+  <title>四级轻学 · 每天，向前一点</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23234d3d'/%3E%3Cpath d='M16 18q9-3 16 3 7-6 16-3v28q-9-3-16 3-7-6-16-3zM32 21v28' fill='none' stroke='%23fff' stroke-width='3' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script src="content.js" defer></script>
+  <script src="latest.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">跳到学习内容</a>
+  <aside class="sidebar" aria-label="主导航">
+    <a href="#today" class="brand" aria-label="四级轻学首页"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M5 7c4-1 7 0 11 3 4-3 7-4 11-3v19c-4-1-7 0-11 2-4-2-7-3-11-2zM16 10v18"/></svg></span><span>四级轻学<small>A LITTLE, EVERY DAY</small></span></a>
+    <div class="nav-label">你的学习空间</div>
+    <nav id="desktop-nav"></nav>
+    <div class="sidebar-note"><span class="tiny-leaf" aria-hidden="true">✳</span><p>学一点，记一点。<br>让进步慢慢发生。</p></div>
+    <div class="exam-card"><span class="eyebrow">NEXT DESTINATION</span><strong>12.12 <span>四级笔试</span></strong><div><span class="status-dot"></span><span id="exam-days">备考进行中</span></div></div>
+    <button class="sidebar-about" data-action="about">关于内容与数据 <span aria-hidden="true">↗</span></button>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><div class="mobile-brand">四级轻学<span class="status-dot"></span></div><div class="breadcrumb" id="breadcrumb">我的学习桌</div><div class="topbar-right"><span id="today-date"></span><span class="avatar" aria-label="本机学习者">学</span></div></header>
+    <main id="main-content" class="main" tabindex="-1"><div class="loading"><span class="loader"></span><p>正在整理你的学习桌…</p></div></main>
+    <footer class="site-footer"><span>每天，向前一点。</span><span>免费学习 · 无需注册 · 记录保存在本机</span></footer>
+  </div>
+  <nav id="mobile-nav" class="mobile-nav" aria-label="手机主导航"></nav>
+  <dialog id="reader-dialog" class="reader-dialog" aria-label="学习内容"><div id="reader-content"></div></dialog>
+  <dialog id="about-dialog" class="about-dialog" aria-labelledby="about-title"><button class="dialog-close" data-action="close-about" aria-label="关闭说明">×</button><span class="eyebrow">GOOD TO KNOW</span><h2 id="about-title">把时间留给学习</h2><p>这是一个内容优先的免费四级学习站。站内收录200个备考常用词、60个双语例句、12篇原创阅读练习，并整理18套四级试卷的来源链接。</p><p>原创词句与短文属于学习练习，短文中的人物和场景为教学设计，不是真题或新闻报道。单词释义选取常见用法，不代表完整词典或官方必考词表。</p><p>真题、原文和音频的权利归原权利人。本站不托管试题全文；材料由原站提供，资料完整性和答案仍应结合原卷核对。四级官方题型请参阅<a href="https://cet.neea.edu.cn/html1/folder/16113/1586-1.htm" target="_blank" rel="noopener noreferrer">中国教育考试网</a>。</p><p>每日推荐仅整理外站文章的标题、日期和链接，不转载全文。后台更新需要在GitHub启用附带的定时任务；静态文件本身不会自动刷新内容。页面会显示最近一次检查的真实时间。</p><p>收藏、笔记和完成记录仅保存在当前浏览器，清理网站数据会删除记录，不会自动同步到其他设备。可在“收藏笔记”导出备份。</p><p id="storage-status" class="info-line"></p><button class="button primary" data-action="close-about">知道了，继续学习</button></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <noscript><div class="noscript">请启用JavaScript以使用学习卡片。你也可以直接打开<a href="https://eol.nju.edu.cn/cet4/">四级真题自测资源</a>。</div></noscript>
+</body>
+</html>
