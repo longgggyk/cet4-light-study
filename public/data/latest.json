@@ -2,6 +2,24 @@
   "articles": [
     {
       "id": "news-1",
+      "title": "Good news of October – level 1",
+      "url": "https://www.newsinlevels.com/products/good-news-of-october-level-1/",
+      "publishedAt": "2026-10-30T14:00:56+00:00",
+      "source": "News in Levels",
+      "type": "external",
+      "note": "原站提供分级阅读与音频；点击后在原站学习。"
+    },
+    {
+      "id": "news-2",
+      "title": "Made in Qatar – level 1",
+      "url": "https://www.newsinlevels.com/products/made-in-qatar-level-1/",
+      "publishedAt": "2026-10-30T06:00:02+00:00",
+      "source": "News in Levels",
+      "type": "external",
+      "note": "原站提供分级阅读与音频；点击后在原站学习。"
+    },
+    {
+      "id": "news-3",
       "title": "Salmon farming and tech – level 1",
       "url": "https://www.newsinlevels.com/products/salmon-farming-and-tech-level-1/",
       "publishedAt": "2026-10-29T14:00:20+00:00",
@@ -10,120 +28,102 @@
       "note": "原站提供分级阅读与音频；点击后在原站学习。"
     },
     {
-      "id": "news-2",
+      "id": "news-4",
       "title": "The UK says yes to drilling in the North Sea – level 1",
       "url": "https://www.newsinlevels.com/products/the-uk-says-yes-to-drilling-in-the-north-sea-level-1/",
       "publishedAt": "2026-10-29T06:00:56+00:00",
       "source": "News in Levels",
       "type": "external",
       "note": "原站提供分级阅读与音频；点击后在原站学习。"
-    },
-    {
-      "id": "news-3",
-      "title": "AI drones help farmers and the planet – level 1",
-      "url": "https://www.newsinlevels.com/products/ai-drones-help-farmers-and-the-planet-level-1/",
-      "publishedAt": "2026-10-28T14:00:05+00:00",
-      "source": "News in Levels",
-      "type": "external",
-      "note": "原站提供分级阅读与音频；点击后在原站学习。"
-    },
-    {
-      "id": "news-4",
-      "title": "Sydney must close its beaches – level 1",
-      "url": "https://www.newsinlevels.com/products/sydney-must-close-its-beaches-level-1/",
-      "publishedAt": "2026-10-28T06:00:42+00:00",
-      "source": "News in Levels",
-      "type": "external",
-      "note": "原站提供分级阅读与音频；点击后在原站学习。"
     }
   ],
   "candidates": [],
-  "lastAttemptAt": "2026-10-30T02:38:19+00:00",
+  "lastAttemptAt": "2026-10-31T02:26:15+00:00",
   "sourceUrl": "https://www.newsinlevels.com/feed/",
-  "lastSuccessfulAt": "2026-10-30T02:38:19+00:00",
+  "lastSuccessfulAt": "2026-10-31T02:26:15+00:00",
   "paperHealth": {
     "202312-1": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:26+00:00"
+      "checkedAt": "2026-10-31T02:26:20+00:00"
     },
     "202312-2": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:26+00:00"
+      "checkedAt": "2026-10-31T02:26:20+00:00"
     },
     "202312-3": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:25+00:00"
+      "checkedAt": "2026-10-31T02:26:20+00:00"
     },
     "202406-1": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:26+00:00"
+      "checkedAt": "2026-10-31T02:26:20+00:00"
     },
     "202406-2": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:26+00:00"
+      "checkedAt": "2026-10-31T02:26:20+00:00"
     },
     "202406-3": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:26+00:00"
+      "checkedAt": "2026-10-31T02:26:20+00:00"
     },
     "202412-1": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:27+00:00"
+      "checkedAt": "2026-10-31T02:26:21+00:00"
     },
     "202412-2": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:27+00:00"
+      "checkedAt": "2026-10-31T02:26:21+00:00"
     },
     "202412-3": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:27+00:00"
+      "checkedAt": "2026-10-31T02:26:22+00:00"
     },
     "202506-1": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:27+00:00"
+      "checkedAt": "2026-10-31T02:26:21+00:00"
     },
     "202506-2": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:28+00:00"
+      "checkedAt": "2026-10-31T02:26:22+00:00"
     },
     "202506-3": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:28+00:00"
+      "checkedAt": "2026-10-31T02:26:22+00:00"
     },
     "202512-1": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:29+00:00"
+      "checkedAt": "2026-10-31T02:26:23+00:00"
     },
     "202512-2": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:29+00:00"
+      "checkedAt": "2026-10-31T02:26:23+00:00"
     },
     "202512-3": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:29+00:00"
+      "checkedAt": "2026-10-31T02:26:22+00:00"
     },
     "202606-1": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:29+00:00"
+      "checkedAt": "2026-10-31T02:26:23+00:00"
     },
     "202606-2": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:30+00:00"
+      "checkedAt": "2026-10-31T02:26:23+00:00"
     },
     "202606-3": {
       "status": "verified",
-      "checkedAt": "2026-10-30T02:38:30+00:00"
+      "checkedAt": "2026-10-31T02:26:23+00:00"
     }
   },
   "sources": {
     "news": {
       "status": "ok",
-      "checkedAt": "2026-10-30T02:38:19+00:00",
+      "checkedAt": "2026-10-31T02:26:15+00:00",
       "url": "https://www.newsinlevels.com/feed/"
     },
     "papers": {
       "status": "ok",
-      "checkedAt": "2026-10-30T02:38:19+00:00",
+      "checkedAt": "2026-10-31T02:26:15+00:00",
       "url": "https://eol.nju.edu.cn/cet4/",
       "count": 18
     }
