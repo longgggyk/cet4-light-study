@@ -38,95 +38,96 @@
     }
   ],
   "candidates": [],
-  "lastAttemptAt": "2026-11-06T03:27:58+00:00",
+  "lastAttemptAt": "2026-11-07T02:50:41+00:00",
   "sourceUrl": "https://www.newsinlevels.com/feed/",
   "lastSuccessfulAt": "2026-11-06T03:27:58+00:00",
   "paperHealth": {
     "202312-1": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:10+00:00"
+      "checkedAt": "2026-11-07T02:50:45+00:00"
     },
     "202312-2": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:11+00:00"
+      "checkedAt": "2026-11-07T02:50:45+00:00"
     },
     "202312-3": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:11+00:00"
+      "checkedAt": "2026-11-07T02:50:45+00:00"
     },
     "202406-1": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:11+00:00"
+      "checkedAt": "2026-11-07T02:50:45+00:00"
     },
     "202406-2": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:11+00:00"
+      "checkedAt": "2026-11-07T02:50:45+00:00"
     },
     "202406-3": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:11+00:00"
+      "checkedAt": "2026-11-07T02:50:45+00:00"
     },
     "202412-1": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:12+00:00"
+      "checkedAt": "2026-11-07T02:50:47+00:00"
     },
     "202412-2": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:12+00:00"
+      "checkedAt": "2026-11-07T02:50:47+00:00"
     },
     "202412-3": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:12+00:00"
+      "checkedAt": "2026-11-07T02:50:46+00:00"
     },
     "202506-1": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:12+00:00"
+      "checkedAt": "2026-11-07T02:50:46+00:00"
     },
     "202506-2": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:12+00:00"
+      "checkedAt": "2026-11-07T02:50:46+00:00"
     },
     "202506-3": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:13+00:00"
+      "checkedAt": "2026-11-07T02:50:48+00:00"
     },
     "202512-1": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:13+00:00"
+      "checkedAt": "2026-11-07T02:50:48+00:00"
     },
     "202512-2": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:13+00:00"
+      "checkedAt": "2026-11-07T02:50:49+00:00"
     },
     "202512-3": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:13+00:00"
+      "checkedAt": "2026-11-07T02:50:49+00:00"
     },
     "202606-1": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:13+00:00"
+      "checkedAt": "2026-11-07T02:50:49+00:00"
     },
     "202606-2": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:13+00:00"
+      "checkedAt": "2026-11-07T02:50:49+00:00"
     },
     "202606-3": {
       "status": "verified",
-      "checkedAt": "2026-11-06T03:28:15+00:00"
+      "checkedAt": "2026-11-07T02:50:49+00:00"
     }
   },
   "sources": {
     "news": {
-      "status": "ok",
-      "checkedAt": "2026-11-06T03:27:58+00:00",
-      "url": "https://www.newsinlevels.com/feed/"
+      "status": "error",
+      "checkedAt": "2026-11-07T02:50:41+00:00",
+      "url": "https://www.newsinlevels.com/feed/",
+      "error": "HTTPError"
     },
     "papers": {
       "status": "ok",
-      "checkedAt": "2026-11-06T03:27:58+00:00",
+      "checkedAt": "2026-11-07T02:50:41+00:00",
       "url": "https://eol.nju.edu.cn/cet4/",
       "count": 18
     }
   },
-  "status": "ok"
+  "status": "partial"
 }
